@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Esther 
 👩🏻‍💻 Backend Developer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studing [MSc. Computer Science] at the University of Energy & Natural Resources, Ghana<br/>
+<!--👩🏻‍🎓 Studing [MSc. Computer Science] at the University of Energy & Natural Resources, Ghana<br/>-->
 🎀 #learninginpublic in my [personal hub](www.linkedin.com/in/estherdomfeh)<br/>
 📜 Currently learning  Cyber Security<br/>
 
