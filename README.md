@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Esther 
 👩🏻‍💻 Backend Developer sharing about my journey and learnings in tech<br/>
-<!--👩🏻‍🎓 Studing [MSc. Computer Science] at the University of Energy & Natural Resources, Ghana<br/>-->
 🎀 #learninginpublic in my [personal hub](www.linkedin.com/in/estherdomfeh)<br/>
 📜 Currently learning  Cyber Security<br/>
+<!--👩🏻‍🎓 Studing [MSc. Computer Science] at the University of Energy & Natural Resources, Ghana<br/>-->
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Esther Domfeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=estherdomfeh213&show_icons=true&theme=highcontrast)<br/>
