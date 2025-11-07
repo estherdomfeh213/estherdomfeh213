@@ -1,13 +1,13 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm [Your Name] | Aspiring Cloud Engineer
+# Hi, I'm Esther | Aspiring Cloud Engineer
 
 🎓 Recent Computer Science Graduate | ☁️ AWS Cloud Practitioner Certified  
 💡 Passionate about cloud computing, DevOps, and building scalable solutions
 
 ## 🛠️ Technical Skills
 **Cloud & DevOps:** AWS, Docker, CI/CD, Infrastructure as Code  
-**Programming:** Python, JavaScript, Java, SQL  
+**Programming:** Python, JavaScript, SQL  
 **Tools:** Git, Linux, VS Code, Postman
 
 ## 🌟 Featured Projects
@@ -33,7 +33,6 @@
 - Email: [your.email@domain.com]
 - Portfolio: [Your portfolio website]
 
-⚡ **Currently preparing for AmaliTech AWS re/Start Program**
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Esther Domfeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=estherdomfeh213&show_icons=true&theme=highcontrast)<br/>
