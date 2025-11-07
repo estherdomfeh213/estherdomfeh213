@@ -1,10 +1,39 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm Esther 
-👩🏻‍💻 Backend Developer sharing about my journey and learnings in tech<br/>
-🎀 #learninginpublic in my [personal hub](www.linkedin.com/in/estherdomfeh)<br/>
-📜 Currently reading anything cybersecurity<br/> 
-👩🏻‍🎓 Studing [MSc. Computer Science] at the University of Energy & Natural Resources, Ghana<br/>
+# 👋 Hi, I'm [Your Name] | Aspiring Cloud Engineer
+
+🎓 Recent Computer Science Graduate | ☁️ AWS Cloud Practitioner Certified  
+💡 Passionate about cloud computing, DevOps, and building scalable solutions
+
+## 🛠️ Technical Skills
+**Cloud & DevOps:** AWS, Docker, CI/CD, Infrastructure as Code  
+**Programming:** Python, JavaScript, Java, SQL  
+**Tools:** Git, Linux, VS Code, Postman
+
+## 🌟 Featured Projects
+
+### [Multi-Tier Web Application](https://github.com/yourusername/multi-tier-app)
+☁️ **AWS Services Used:** VPC, EC2, RDS, ALB, Auto Scaling  
+📝 Three-tier architecture with high availability and scalability
+
+### [Serverless URL Shortener](https://github.com/yourusername/url-shortener)  
+⚡ **AWS Services Used:** Lambda, API Gateway, DynamoDB  
+📝 Serverless application with auto-scaling and pay-per-use pricing
+
+### [CI/CD Pipeline](https://github.com/yourusername/ci-cd-pipeline)
+🔄 **AWS Services Used:** CodePipeline, CodeBuild, ECS  
+📝 Automated deployment pipeline with testing and containerization
+
+## 📜 Certifications
+- AWS Certified Cloud Practitioner (Expected Nov 2025)
+- [Any other relevant certifications]
+
+## 📫 Let's Connect
+- LinkedIn: [Your LinkedIn URL]
+- Email: [your.email@domain.com]
+- Portfolio: [Your portfolio website]
+
+⚡ **Currently preparing for AmaliTech AWS re/Start Program**
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Esther Domfeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=estherdomfeh213&show_icons=true&theme=highcontrast)<br/>
