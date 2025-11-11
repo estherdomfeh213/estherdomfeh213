@@ -5,12 +5,12 @@
 🎓 Recent Computer Science Graduate | ☁️ AWS Cloud Practitioner Certified  
 💡 Passionate about cloud computing, DevOps, and building scalable solutions
 
-## 🛠️ Technical Skills
+## Technical Skills
 **Cloud & DevOps:** AWS, Docker, CI/CD, Infrastructure as Code  
 **Programming:** Python, JavaScript, SQL  
 **Tools:** Git, Linux, VS Code, Postman
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### [Multi-Tier Web Application](https://github.com/yourusername/multi-tier-app)
 ☁️ **AWS Services Used:** VPC, EC2, RDS, ALB, Auto Scaling  
