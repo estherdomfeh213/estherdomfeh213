@@ -2,7 +2,7 @@
 
 # Hi, I'm Esther | Aspiring Cloud Engineer
 
-🎓 Recent Computer Science Graduate | ☁️ AWS Cloud Practitioner Certified  
+🎓 Recent Computer Science Graduate |  AWS Cloud Practitioner Certified  
 💡 Passionate about cloud computing, DevOps, and building scalable solutions
 
 ## Technical Skills
@@ -12,30 +12,34 @@
 
 ## Featured Projects
 
-### [Multi-Tier Web Application](https://github.com/yourusername/multi-tier-app)
-☁️ **AWS Services Used:** VPC, EC2, RDS, ALB, Auto Scaling  
-📝 Three-tier architecture with high availability and scalability
+### [Serverless URL Shortener](https://github.com/estherdomfeh213/url-shortener)  
+**AWS Services Used:** Lambda, API Gateway, DynamoDB  
+Serverless application with auto-scaling and pay-per-use pricing
 
-### [Serverless URL Shortener](https://github.com/yourusername/url-shortener)  
-⚡ **AWS Services Used:** Lambda, API Gateway, DynamoDB  
-📝 Serverless application with auto-scaling and pay-per-use pricing
+### [AWS Static Portfolio Website](https://github.com/estherdomfeh213/aws-static-portfolio-website)
+**AWS Services Used:** IAM, S3
+Professional portfolio hosted on AWS S3 Static website demonstrating cloud cost optimization & high availability
+
+### [Multi-Tier Web Application](https://github.com/yourusername/multi-tier-app)
+**AWS Services Used:** VPC, EC2, RDS, ALB, Auto Scaling  
+Three-tier architecture with high availability and scalability
 
 ### [CI/CD Pipeline](https://github.com/yourusername/ci-cd-pipeline)
-🔄 **AWS Services Used:** CodePipeline, CodeBuild, ECS  
-📝 Automated deployment pipeline with testing and containerization
+**AWS Services Used:** CodePipeline, CodeBuild, ECS  
+Automated deployment pipeline with testing and containerization
 
-## 📜 Certifications
-- AWS Certified Cloud Practitioner (Expected Nov 2025)
-- [Any other relevant certifications]
+## Certifications
+- AWS Certified Cloud Practitioner 
+
 
 ## 📫 Let's Connect
 - LinkedIn: [Your LinkedIn URL]
-- Email: [your.email@domain.com]
-- Portfolio: [Your portfolio website]
+- Email: [domfehesther88@gmail.com]
+- Portfolio: []
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Esther Domfeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=estherdomfeh213&show_icons=true&theme=highcontrast)<br/>
+<!--![Esther Domfeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=estherdomfeh213&show_icons=true&theme=highcontrast)<br/> -->
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
