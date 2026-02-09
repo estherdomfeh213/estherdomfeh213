@@ -12,14 +12,8 @@
 
 
 ## Certifications
-- AWS Certified Cloud Practitioner 
-
-
-## 📫 Let's Connect
-- LinkedIn: [www.linkedin.com/in/estherdomfeh]
-- Email: [domfehesther88@gmail.com]
-- Portfolio: []
-
+- AWS Certified Cloud Practitioner
+- 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!--![Esther Domfeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=estherdomfeh213&show_icons=true&theme=highcontrast)<br/> -->
@@ -60,3 +54,9 @@ Three-tier architecture with high availability and scalability
 ### [CI/CD Pipeline](https://github.com/yourusername/ci-cd-pipeline)
 **AWS Services Used:** CodePipeline, CodeBuild, ECS  
 Automated deployment pipeline with testing and containerization
+
+
+## 📫 Let's Connect
+- LinkedIn: [www.linkedin.com/in/estherdomfeh]
+- Email: [domfehesther88@gmail.com]
+<!-- Portfolio: [] -->
