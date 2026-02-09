@@ -13,7 +13,7 @@
 
 ## Certifications
 - AWS Certified Cloud Practitioner
-- 
+
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!--![Esther Domfeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=estherdomfeh213&show_icons=true&theme=highcontrast)<br/> -->
