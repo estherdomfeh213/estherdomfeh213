@@ -39,6 +39,9 @@
 
 ## Featured Projects
 
+### [AmaliTech AWS Solutions Architect Program](https://github.com/estherdomfeh213/AmaliTech-AWS-Journey-2026)
+**Intensive 15-weeks program** to design secure and robust applications on AWS, covering core services like EC2, S3, Lambda, and RDS, as well as cost optimization and security. 
+ 
 ### [Serverless URL Shortener](https://github.com/estherdomfeh213/url-shortener)  
 **AWS Services Used:** Lambda, API Gateway, DynamoDB  
 Serverless application with auto-scaling and pay-per-use pricing
@@ -47,13 +50,11 @@ Serverless application with auto-scaling and pay-per-use pricing
 **AWS Services Used:** IAM, S3
 Professional portfolio hosted on AWS S3 Static website demonstrating cloud cost optimization & high availability
 
-### [Multi-Tier Web Application](https://github.com/yourusername/multi-tier-app)
-**AWS Services Used:** VPC, EC2, RDS, ALB, Auto Scaling  
-Three-tier architecture with high availability and scalability
 
-### [CI/CD Pipeline](https://github.com/yourusername/ci-cd-pipeline)
+
+<!--### [CI/CD Pipeline](https://github.com/yourusername/ci-cd-pipeline)
 **AWS Services Used:** CodePipeline, CodeBuild, ECS  
-Automated deployment pipeline with testing and containerization
+Automated deployment pipeline with testing and containerization-->
 
 
 ## 📫 Let's Connect
