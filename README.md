@@ -58,6 +58,6 @@ Automated deployment pipeline with testing and containerization-->
 
 
 ## 📫 Let's Connect
-- LinkedIn: [www.linkedin.com/in/estherdomfeh]
-- Email: [domfehesther88@gmail.com]
+- LinkedIn: www.linkedin.com/in/estherdomfeh
+- Email: domfehesther88@gmail.com
 <!-- Portfolio: [] -->
