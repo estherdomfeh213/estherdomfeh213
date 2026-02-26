@@ -32,7 +32,7 @@ Python, JavaScript, Django
 ## Current Projects
 
 ### [AmaliTech AWS Solutions Architect Program](https://github.com/estherdomfeh213/AmaliTech-AWS-Journey-2026)
-**Intensive 15-weeks program** to design secure and robust applications on AWS, covering core services like EC2, S3, Lambda, and RDS, as well as cost optimization and security. 
+> Intensive 15-weeks program to design secure and robust applications on AWS, covering core services like EC2, S3, Lambda, and RDS, as well as cost optimization and security. 
  
 ### [Serverless URL Shortener](https://github.com/estherdomfeh213/url-shortener)  
 > Designed and deployed a fully serverless REST API using AWS Lambda, API Gateway, and DynamoDB.
