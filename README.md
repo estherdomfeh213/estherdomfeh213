@@ -3,7 +3,8 @@
 # Hi, I'm Esther👋
 
 **Cloud Engineering Trainee | AWS Solutions Architect (In Progress) | Building Production-Grade Infrastructure on AWS | AWS Cloud Practitioner Certified**  
-> > I design and deploy secure, scalable, and cost-optimized cloud infrastructure on AWS, with a focus on multi-AZ high availability, Infrastructure as Code (Terraform), and serverless architectures.
+> I design and deploy secure, scalable, and cost-optimized cloud infrastructure on AWS, with a focus on multi-AZ high availability, Infrastructure as Code (Terraform), and serverless architectures.
+
 🔹 Cloud & Infrastructure  
 AWS (EC2, S3, RDS, IAM, Lambda, API Gateway, DynamoDB, VPC)  
 Linux (Ubuntu), Bash  
