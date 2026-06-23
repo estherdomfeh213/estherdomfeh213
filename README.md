@@ -2,7 +2,7 @@
 
 # Hi, I'm Esther👋
 
-**Outreachy Intern @OpenStack Ironic | AWS Solutions Architect  Certified | Building Production-Grade Infrastructure on AWS | AWS Cloud Practitioner Certified**  
+** Working @OpenStack Ironic | AWS Solutions Architect  Certified | Building Production-Grade Infrastructure on AWS | AWS Cloud Practitioner Certified**  
 
 
 
