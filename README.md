@@ -11,13 +11,13 @@
 
 <!-- BADGE ROW -->
 <p align="center">
-  <a href="https://www.outreachy.org/">
+  <a href="/">
     <img src="https://img.shields.io/badge/Outreachy-Alum-4B0082?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSIzMiIgZmlsbD0iIzRCMDA4MiIvPjxwYXRoIGQ9Ik0xNiAyMmgzMnY0SDIweiIgZmlsbD0iI0ZGRiIvPjxwYXRoIGQ9Ik0xNiAzMGgzMnY0SDIweiIgZmlsbD0iI0ZGRiIvPjxwYXRoIGQ9Ik0xNiAzOGgzMnY0SDIweiIgZmlsbD0iI0ZGRiIvPjwvc3ZnPg==" />
   </a>
-  <a href="https://www.credly.com/badges/your-aws-badge-id">
+  <a href="https://www.credly.com/27b57882-5d7f-4d14-acef-19f36e8ce7b9">
     <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black" />
   </a>
-  <a href="https://www.credly.com/badges/your-aws-badge-id">
+  <a href="https://www.credly.com/badges/389bc4c0-5edc-44cc-807e-7a60fa6ee8c2">
     <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
   <a href="https://opendev.org/openstack/ironic">
@@ -98,7 +98,7 @@ I'm an **infrastructure engineer** passionate about building scalable cloud solu
 <table>
   <tr>
     <td width="50%">
-      <h3>🔧 OpenStack Ironic Contributions</h3>
+      <h3>OpenStack Ironic Contributions</h3>
       <p><i>Production-grade bare metal provisioning</i></p>
       <ul>
         <li>7+ merged patches to OpenStack Ironic</li>
@@ -116,7 +116,7 @@ I'm an **infrastructure engineer** passionate about building scalable cloud solu
       </p>
     </td>
     <td width="50%">
-      <h3>☁️ AWS Multi-AZ VPC Architecture</h3>
+      <h3>AWS Multi-AZ VPC Architecture</h3>
       <p><i>Production-grade cloud network design</i></p>
       <ul>
         <li>Public/private subnets across 2 AZs</li>
@@ -148,7 +148,7 @@ I'm an **infrastructure engineer** passionate about building scalable cloud solu
       </p>
     </td>
     <td width="50%">
-      <h3>🔄 Hybrid Cloud Automation</h3>
+      <h3>Hybrid Cloud Automation</h3>
       <p><i>AWS + OpenStack integration</i></p>
       <ul>
         <li>Terraform modules for both platforms</li>
@@ -187,17 +187,14 @@ I'm an **infrastructure engineer** passionate about building scalable cloud solu
 - 🏗️ Building IaC modules for hybrid cloud deployments
 - 🔬 Exploring CNCF landscape for LFX Mentorship
 
-### 🎯 Upcoming Goals
-- **September 2026:** Apply for LFX Mentorship (CNCF projects)
-- **September 2026:** Apply for MLH Fellowship (Open Source track)
-- **October 2026:** AWS Specialty Certification (DevOps or Networking)
+
 
 ---
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey Contributing to OpenStack Ironic](https://your-blog.com/openstack-ironic-journey)
+- [Ironic: Bridging the Gap Between Cloud and Physical Hardware](https://your-blog.com/https://medium.com/@estherdomfeh88/ironic-bridging-the-gap-between-cloud-and-physical-hardware-f62555ae9726?sharedUserId=estherdomfeh88)
 - [Building Serverless Applications on AWS](https://your-blog.com/serverless-aws)
 - [Infrastructure as Code: Best Practices](https://your-blog.com/iac-best-practices)
 - [From Outreachy to Open Source Contributor](https://your-blog.com/outreachy-to-oss)
