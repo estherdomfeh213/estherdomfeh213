@@ -11,7 +11,7 @@
 
 <!-- BADGE ROW -->
 <p align="center">
-  <a href="/">
+  <a href="none">
     <img src="https://img.shields.io/badge/Outreachy-Alum-4B0082?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSIzMiIgZmlsbD0iIzRCMDA4MiIvPjxwYXRoIGQ9Ik0xNiAyMmgzMnY0SDIweiIgZmlsbD0iI0ZGRiIvPjxwYXRoIGQ9Ik0xNiAzMGgzMnY0SDIweiIgZmlsbD0iI0ZGRiIvPjxwYXRoIGQ9Ik0xNiAzOGgzMnY0SDIweiIgZmlsbD0iI0ZGRiIvPjwvc3ZnPg==" />
   </a>
   <a href="https://www.credly.com/27b57882-5d7f-4d14-acef-19f36e8ce7b9">
