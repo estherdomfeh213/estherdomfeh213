@@ -1,9 +1,3 @@
-<!-- 
-  Professional GitHub Profile for Esther Domfeh
-  Optimized for LFX Mentorship & MLH Fellowship Applications
-  Last Updated: August 2026
--->
-
 <!-- ANIMATED HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=OpenStack+Ironic+Contributor;AWS+Certified+Solutions+Architect;Outreachy+Alum+'26;Infrastructure+Automation+Engineer" alt="Typing SVG" />
