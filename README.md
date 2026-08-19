@@ -27,11 +27,9 @@ Most of my code contributions live on **Gerrit** – the code review system used
 🔗 **View my patches:** [https://review.opendev.org/q/owner:edomfeh](https://review.opendev.org/q/owner:edomfeh)
 
 **Recent highlights:**
-- 🔧 Built API filters for node state tracking and energy monitoring
-- 📊 Implemented power consumption metrics for bare-metal nodes
-- 🛠️ Added user/project auditing for node state changes
-
----
+- Built API filters for node state tracking and energy monitoring
+- Implemented power consumption metrics for bare-metal nodes
+- Added user/project auditing for node state changes
 
 ---
 ### 🍀Blog Garden📝🪴
@@ -40,7 +38,8 @@ Most of my code contributions live on **Gerrit** – the code review system used
 [My Outreachy Journey with OpenStack Ironic
 ](https://medium.com/@estherdomfeh88/my-outreachy-journey-with-openstack-ironic-864d027e6cbb?source=friends_link&sk=e165cfa7f1d9fa40f921d9ef6d5247f9)
 
-### 🛠️ Tech Stack
+---
+###  Tech Stack
 
 | Category | Skills |
 |----------|--------|
@@ -52,7 +51,7 @@ Most of my code contributions live on **Gerrit** – the code review system used
 
 ---
 
-### 🏆 What I've Built
+### What I've Built
 
 - **OpenStack Ironic API Filters**: Real-time node state tracking and energy consumption monitoring
 - **Healthcare Translation App**: AWS Lambda + Bedrock + API Gateway – 1st place at AWS x AmaliTech Hackathon 2026
