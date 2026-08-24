@@ -14,10 +14,10 @@ I'm exploring the CNCF ecosystem and eager to deepen my expertise in Go, Kuberne
 
 ### 🔧 What I'm Working On
 
-- 🔗 **OpenStack Ironic**: State tracking, API filters, energy monitoring (via Gerrit on OpenDev)
-- 🌐 **CNCF Ecosystem**: Exploring Go, Kubernetes, and cloud-native infrastructure
-- 📊 **Observability**: Building skills in Prometheus and Grafana
-- 📝 Technical Writing: Sharing my open-source journey and learnings
+- **OpenStack Ironic**: State tracking, API filters, energy monitoring (via Gerrit on OpenDev)
+- **CNCF Ecosystem**: Exploring Go, Kubernetes, and cloud-native infrastructure
+- **Observability**: Building skills in Prometheus and Grafana
+- **Technical Writing**: Sharing my open-source journey and learnings
 
 ---
 
