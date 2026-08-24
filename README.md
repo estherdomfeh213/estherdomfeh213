@@ -17,6 +17,7 @@ I'm exploring the CNCF ecosystem and eager to deepen my expertise in Go, Kuberne
 - 🔗 **OpenStack Ironic**: State tracking, API filters, energy monitoring (via Gerrit on OpenDev)
 - 🌐 **CNCF Ecosystem**: Exploring Go, Kubernetes, and cloud-native infrastructure
 - 📊 **Observability**: Building skills in Prometheus and Grafana
+- 📝 Technical Writing: Sharing my open-source journey and learnings
 
 ---
 
@@ -32,12 +33,11 @@ Most of my code contributions live on **Gerrit** – the code review system used
 - Added user/project auditing for node state changes
 
 ---
-### 🍀Blog Garden📝🪴
+### 📝 Latest Writing
 
-**View my current blog post**
-[My Outreachy Journey with OpenStack Ironic
-](https://medium.com/@estherdomfeh88/my-outreachy-journey-with-openstack-ironic-864d027e6cbb?source=friends_link&sk=e165cfa7f1d9fa40f921d9ef6d5247f9)
+📖 **[My Outreachy Journey with OpenStack Ironic](https://medium.com/@estherdomfeh88/my-outreachy-journey-with-openstack-ironic-864d027e6cbb?source=friends_link&sk=e165cfa7f1d9fa40f921d9ef6d5247f9)**
 
+> *"I built API filters for node state tracking and energy monitoring, learned to navigate a massive codebase, and became part of a global community."*
 ---
 ###  Tech Stack
 
