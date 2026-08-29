@@ -25,9 +25,6 @@
 
 ## 👋 Hi, I'm Esther
 
-Cloud Infrastructure Engineer | OpenStack Ironic Contributor | Outreachy Alumna
-
-
 ### 👩‍💻 About Me
 
 I'm a cloud infrastructure engineer from Ghana, passionate about bare-metal provisioning, observability, and automation.
@@ -58,7 +55,7 @@ Most of my code contributions live on **Gerrit** – the code review system used
 - Added user/project auditing for node state changes
 
 ---
-### 📝 Latest Writing
+### Blog Garden🍁 ༄˖°.🍂.ೃ࿔*:･
 
 📖 **[My Outreachy Journey with OpenStack Ironic](https://medium.com/@estherdomfeh88/my-outreachy-journey-with-openstack-ironic-864d027e6cbb?source=friends_link&sk=e165cfa7f1d9fa40f921d9ef6d5247f9)**
 
