@@ -20,11 +20,6 @@
   </a>
 </p>
 
-<!-- PROFILE VISITOR COUNT -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=estherdomfeh213&style=flat-square&color=blueviolet" alt="Profile Views" />
-</p>
-
 
 
 
