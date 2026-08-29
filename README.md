@@ -25,7 +25,7 @@
 
 ## 👋 Hi, I'm Esther
 
-### 👩‍💻 About Me
+### 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 !
 
 I'm a cloud infrastructure engineer from Ghana, passionate about bare-metal provisioning, observability, and automation.
 I'm currently contributing to OpenStack Ironic as an Outreachy fellow, building features for node lifecycle tracking and energy monitoring.
@@ -34,7 +34,7 @@ I'm exploring the CNCF ecosystem and eager to deepen my expertise in Go, Kuberne
 
 ---
 
-### 🔧 What I'm Working On
+###  ☕︎‧₊˚what I'm working on⏱٠࣪⋆💻₊˚ᵎ
 
 - **OpenStack Ironic**: State tracking, API filters, energy monitoring (via Gerrit on OpenDev)
 - **CNCF Ecosystem**: Exploring Go, Kubernetes, and cloud-native infrastructure
@@ -43,21 +43,21 @@ I'm exploring the CNCF ecosystem and eager to deepen my expertise in Go, Kuberne
 
 ---
 
-### 📝 My Contributions
+### < / >my contributions✎𓂃
 
 Most of my code contributions live on **Gerrit** – the code review system used by OpenStack and other open-source projects.
 
 🔗 **View my patches:** [https://review.opendev.org/q/owner:edomfeh](https://review.opendev.org/q/owner:edomfeh)
 
-**Recent highlights:**
+**recent highlights:**
 - Built API filters for node state tracking and energy monitoring
 - Implemented power consumption metrics for bare-metal nodes
 - Added user/project auditing for node state changes
 
 ---
-### Blog Garden🍁 ༄˖°.🍂.ೃ࿔*:･
+### 🍁 ༄˖°blog garden.🍂.ೃ࿔*:･
 
-📖 **[My Outreachy Journey with OpenStack Ironic](https://medium.com/@estherdomfeh88/my-outreachy-journey-with-openstack-ironic-864d027e6cbb?source=friends_link&sk=e165cfa7f1d9fa40f921d9ef6d5247f9)**
+📖 **[my outreachy journey with openstack ironic](https://medium.com/@estherdomfeh88/my-outreachy-journey-with-openstack-ironic-864d027e6cbb?source=friends_link&sk=e165cfa7f1d9fa40f921d9ef6d5247f9)**
 
 > *"I built API filters for node state tracking and energy monitoring, learned to navigate a massive codebase, and became part of a global community."*
 ---
