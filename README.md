@@ -1,3 +1,33 @@
+
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=OpenStack+Ironic+Contributor;AWS+Certified+Solutions+Architect;Outreachy+Alum+'26;Infrastructure+Automation+Engineer" alt="Typing SVG" />
+</p>
+
+<!-- BADGE ROW -->
+<p align="center">
+  <a href="/">
+    <img src="https://img.shields.io/badge/Outreachy-Alum-4B0082?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSIzMiIgZmlsbD0iIzRCMDA4MiIvPjxwYXRoIGQ9Ik0xNiAyMmgzMnY0SDIweiIgZmlsbD0iI0ZGRiIvPjxwYXRoIGQ9Ik0xNiAzMGgzMnY0SDIweiIgZmlsbD0iI0ZGRiIvPjxwYXRoIGQ9Ik0xNiAzOGgzMnY0SDIweiIgZmlsbD0iI0ZGRiIvPjwvc3ZnPg==" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </a>
+  <a href="https://opendev.org/openstack/ironic">
+    <img src="https://img.shields.io/badge/OpenStack-Ironic_Contributor-red?style=for-the-badge&logo=openstack&logoColor=white" />
+  </a>
+</p>
+
+<!-- PROFILE VISITOR COUNT -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=estherdomfeh213&style=flat-square&color=blueviolet" alt="Profile Views" />
+</p>
+
+
+
+
 ## 👋 Hi, I'm Esther
 
 Cloud Infrastructure Engineer | OpenStack Ironic Contributor | Outreachy Alumna
