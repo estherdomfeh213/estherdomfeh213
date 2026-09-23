@@ -1,28 +1,4 @@
 
-<!-- HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=OpenStack+Ironic+Contributor;AWS+Certified+Solutions+Architect;Outreachy+Alum+'26;Infrastructure+Automation+Engineer" alt="Typing SVG" />
-</p>
-
-<!-- BADGE ROW -->
-<p align="center">
-  <a href="/">
-    <img src="https://img.shields.io/badge/Outreachy-Alum-4B0082?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSIzMiIgZmlsbD0iIzRCMDA4MiIvPjxwYXRoIGQ9Ik0xNiAyMmgzMnY0SDIweiIgZmlsbD0iI0ZGRiIvPjxwYXRoIGQ9Ik0xNiAzMGgzMnY0SDIweiIgZmlsbD0iI0ZGRiIvPjxwYXRoIGQ9Ik0xNiAzOGgzMnY0SDIweiIgZmlsbD0iI0ZGRiIvPjwvc3ZnPg==" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  </a>
-  <a href="https://opendev.org/openstack/ironic">
-    <img src="https://img.shields.io/badge/OpenStack-Ironic_Contributor-red?style=for-the-badge&logo=openstack&logoColor=white" />
-  </a>
-</p>
-
-
-
-
 ## 👋 Hi, I'm Esther
 
 ### 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 !
@@ -43,23 +19,16 @@ I'm exploring the CNCF ecosystem and eager to deepen my expertise in Go, Kuberne
 
 ---
 
-### < / >my contributions✎𓂃
+### Contributor at Open Stack Ironic
 
 Most of my code contributions live on **Gerrit** – the code review system used by OpenStack and other open-source projects.
 
-🔗 **View my patches:** [https://review.opendev.org/q/owner:edomfeh](https://review.opendev.org/q/owner:edomfeh)
-
-**recent highlights:**
-- Built API filters for node state tracking and energy monitoring
-- Implemented power consumption metrics for bare-metal nodes
-- Added user/project auditing for node state changes
+**View my patches:** [https://review.opendev.org/q/owner:edomfeh](https://review.opendev.org/q/owner:edomfeh)
 
 ---
-### 🍁 ༄˖°blog garden.🍂.ೃ࿔*:･
 
 📖 **[my outreachy journey with openstack ironic](https://medium.com/@estherdomfeh88/my-outreachy-journey-with-openstack-ironic-864d027e6cbb?source=friends_link&sk=e165cfa7f1d9fa40f921d9ef6d5247f9)**
 
-> *"I built API filters for node state tracking and energy monitoring, learned to navigate a massive codebase, and became part of a global community."*
 ---
 ## 🛠️ Technical Arsenal
 
