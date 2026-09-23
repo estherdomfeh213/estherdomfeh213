@@ -10,7 +10,7 @@ I'm exploring the CNCF ecosystem and eager to deepen my expertise in Go, Kuberne
 
 ---
 
-###  ☕︎‧₊˚what I'm working on⏱٠࣪⋆💻₊˚ᵎ
+### What I'm Working On
 
 - **OpenStack Ironic**: State tracking, API filters, energy monitoring (via Gerrit on OpenDev)
 - **CNCF Ecosystem**: Exploring Go, Kubernetes, and cloud-native infrastructure
@@ -27,10 +27,10 @@ Most of my code contributions live on **Gerrit** – the code review system used
 
 ---
 
-📖 **[my outreachy journey with openstack ironic](https://medium.com/@estherdomfeh88/my-outreachy-journey-with-openstack-ironic-864d027e6cbb?source=friends_link&sk=e165cfa7f1d9fa40f921d9ef6d5247f9)**
+**[my outreachy journey with openstack ironic](https://medium.com/@estherdomfeh88/my-outreachy-journey-with-openstack-ironic-864d027e6cbb?source=friends_link&sk=e165cfa7f1d9fa40f921d9ef6d5247f9)**
 
 ---
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)
@@ -51,13 +51,6 @@ Most of my code contributions live on **Gerrit** – the code review system used
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Gerrit](https://img.shields.io/badge/Gerrit-EEEEEE?style=flat-square&logo=gerrit&logoColor=blue)
 
-
----
-
-### What I've Built
-
-- **OpenStack Ironic API Filters**: Real-time node state tracking and energy consumption monitoring
-- **Healthcare Translation App**: AWS Lambda + Bedrock + API Gateway – 1st place at AWS x AmaliTech Hackathon 2026
 
 ---
 
