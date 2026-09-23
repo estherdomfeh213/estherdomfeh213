@@ -1,4 +1,4 @@
-## Hi 👋, I'm Esther Domfeh
+## Hi 👋, I'm Esther
 
 
 🌱 Learning and Sharing
