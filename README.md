@@ -11,5 +11,4 @@
 
 ### 📫 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/estherdomfeh)
 - [Email](mailto:estherdomfeh88@gmail.com)
